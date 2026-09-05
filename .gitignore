@@ -1,0 +1,15 @@
+# Generated / environment-specific
+build/
+install/
+log/
+logs/
+*.log
+.colcon/
+.catkin/
+__pycache__/
+*.pyc
+
+# Local deployment notes not meant for the repo
+.idea/
+.vscode/
+*.bag
